@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Feliciano Sanchez</h1>
-<h3 align="center">A devoted Data consumer.</h3>
+![](https://github.com/Feliciano-S/Feliciano-S/blob/main/Touched_by_His_Noodly_Appendage_HD.jpg)
+
+<h1 align="center">Howdy, I'm Feliciano Sanchez</h1>
+<h3 align="center">Devoted Data consumer. Pastafarian Jedi.</h3>
 
 - 🔭 I’m currently working on **Building a Simple Chatbot from Scratch in Python (using NLTK)**
 
