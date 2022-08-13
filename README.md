@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **feliciano.f.sanchez@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1kN-xGETDQ-alWO6Q39nQ2UVQB43PEgQkEPveLw0K-ss/edit?usp=sharing](https://docs.google.com/document/d/1kN-xGETDQ-alWO6Q39nQ2UVQB43PEgQkEPveLw0K-ss/edit?usp=sharing)
+- 📄 Know about my experiences by looking at my [Resume!](https://docs.google.com/document/d/1kN-xGETDQ-alWO6Q39nQ2UVQB43PEgQkEPveLw0K-ss/edit?usp=sharing)
 
 - ⚡ Fun fact **I've been to 46 countries around the world!**
 
