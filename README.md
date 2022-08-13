@@ -1,4 +1,4 @@
-![](https://github.com/Feliciano-S/Feliciano-S/blob/main/Touched_by_His_Noodly_Appendage_HD.jpg)
+![](https://github.com/Feliciano-S/Feliciano-S/blob/main/Touched_by_His_Noodly_Appendage_HD%20(1).png)
 
 <h1 align="center">Howdy, I'm Feliciano Sanchez</h1>
 <h3 align="center">Devoted Data consumer. Pastafarian Jedi.</h3>
