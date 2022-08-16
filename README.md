@@ -3,7 +3,7 @@
 <h1 align="center">Howdy, I'm Feliciano Sanchez</h1>
 <h3 align="center">Devoted Data consumer. Pastafarian Jedi.</h3>
 
-- 🔭 I’m currently working on **Building a Simple Chatbot from Scratch in Python (using NLTK)**
+- 🔭 I’m currently working on **Building a Simple Chatbot from Scratch in Python**
 
 - 🌱 I’m currently learning **Python 3**
 
