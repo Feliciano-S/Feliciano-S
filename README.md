@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feliciano-s&show_icons=true&locale=en" alt="feliciano-s" /></p>
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Felix_Sanchez/<0>"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@<Felix_Sanchez>/<0>" alt="Recent article #1"></a>
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@Felix_Sanchez/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@Felix_Sanchez/0" alt="Recent Article 0"> 
